@@ -2,7 +2,8 @@
 Why AI/ML cannot create craft method automatically?
 
 Research about automatic creation for sequential crafting steps with Reinforcement Learning.
-=====
+
+
 
 # Install
 ---
