@@ -3,10 +3,14 @@ Why AI/ML cannot create craft method automatically?
 
 Research about automatic creation for sequential crafting steps with Reinforcement Learning.
 
-
+===
+※ This page is currently being worked on. ※
+===
 
 # Install
-1. Install RePoE
+1. Install code
+2. Install RePoE / Clone RePoE
+3. Place RePoE at 'ExileFromCraft/'
 
 
 # Cradits
